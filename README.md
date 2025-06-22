@@ -21,7 +21,7 @@ This project generates a synthetic customer churn dataset using Python and panda
 - Churn Status (Yes/No)
 
 ## Files
-- `task1.ipynb`: Notebook with data generation and EDA
+- `churn_prediction.ipynb`: Notebook with data generation and EDA
 - `customer_churn_data.csv`: Generated dataset
 
 ---
